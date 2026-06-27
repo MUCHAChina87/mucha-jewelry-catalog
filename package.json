@@ -1,0 +1,15 @@
+{
+  "name": "mucha-jewelry-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "stripe": "^22.2.0"
+  },
+  "devDependencies": {
+    "vercel": "^44.0.0"
+  }
+}

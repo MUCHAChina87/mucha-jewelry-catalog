@@ -1,0 +1,470 @@
+[
+  {
+    "code": "C001",
+    "name": "Little Red Heart Bracelet",
+    "price": "£15",
+    "image": "assets/products/C001_01.webp"
+  },
+  {
+    "code": "C002",
+    "name": "Gilded Dream Butterfly Ring",
+    "price": "£29.90",
+    "image": "assets/products/C002_01.webp"
+  },
+  {
+    "code": "C003",
+    "name": "Gilded Dream Butterfly Necklace",
+    "price": "£34.90",
+    "image": "assets/products/C003_01.webp"
+  },
+  {
+    "code": "C004",
+    "name": "Dewdrop Butterfly Ring",
+    "price": "£19.90",
+    "image": "assets/products/C004_01.webp"
+  },
+  {
+    "code": "C005",
+    "name": "Red Agate Pearl Bracelet",
+    "price": "£24.90",
+    "image": "assets/products/C005_01.webp"
+  },
+  {
+    "code": "C006",
+    "name": "Tiger Eye Pearl Bracelet",
+    "price": "£24.90",
+    "image": "assets/products/C006_01.webp"
+  },
+  {
+    "code": "C007",
+    "name": "Vintage Freshwater Pearl Bracelet",
+    "price": "£29.90",
+    "image": "assets/products/C007_01.webp"
+  },
+  {
+    "code": "C008",
+    "name": "Baroque Pearl Tile Bracelet",
+    "price": "£24.90",
+    "image": "assets/products/C008_01.webp"
+  },
+  {
+    "code": "C009",
+    "name": "Vintage Curve Tassel Ring",
+    "price": "£19.90",
+    "image": "assets/products/C009_01.webp"
+  },
+  {
+    "code": "C010",
+    "name": "Mother-of-Pearl Huggie Earrings",
+    "price": "£25.90",
+    "image": "assets/products/C010_01.webp"
+  },
+  {
+    "code": "C011",
+    "name": "Triple Wire Pearl Collar Necklace",
+    "price": "£29.90",
+    "image": "assets/products/C011_01.webp"
+  },
+  {
+    "code": "C012",
+    "name": "Grape Cluster Pearl Studs",
+    "price": "£19.90",
+    "image": "assets/products/C012_01.webp"
+  },
+  {
+    "code": "C013",
+    "name": "Twisted Matte Hoop Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C013_01.webp"
+  },
+  {
+    "code": "C014",
+    "name": "Natural Stone & Shell Heart Layered Necklace",
+    "price": "£29.90",
+    "image": "assets/products/C014_01.webp"
+  },
+  {
+    "code": "C015",
+    "name": "Colour Zircon Open Ring",
+    "price": "£25",
+    "image": "assets/products/C015_01.webp"
+  },
+  {
+    "code": "C016",
+    "name": "Dachshund Pearl Necklace",
+    "price": "£29.90",
+    "image": "assets/products/C016_01.webp"
+  },
+  {
+    "code": "C017",
+    "name": "Turquoise Open Ring",
+    "price": "£25",
+    "image": "assets/products/C017_01.webp"
+  },
+  {
+    "code": "C018",
+    "name": "Clear Crystal Green Zircon Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C018_01.webp"
+  },
+  {
+    "code": "C019",
+    "name": "Brushed Open Ring",
+    "price": "£25",
+    "image": "assets/products/C019_01.webp"
+  },
+  {
+    "code": "C020",
+    "name": "Liquid Gold Butterfly Studs",
+    "price": "£19.90",
+    "image": "assets/products/C020_01.webp"
+  },
+  {
+    "code": "C021",
+    "name": "Butterfly Tassel Ear Cuff",
+    "price": "£19.90",
+    "image": "assets/products/C021_01.webp"
+  },
+  {
+    "code": "C022",
+    "name": "Vintage Green Zircon Earrings",
+    "price": "£35",
+    "image": "assets/products/C022_01.webp"
+  },
+  {
+    "code": "C023",
+    "name": "Golden Dawn Zircon Hoop Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C023_01.webp"
+  },
+  {
+    "code": "C024",
+    "name": "Pressed Flower Mirror Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C024_01.webp"
+  },
+  {
+    "code": "C025",
+    "name": "Blue Cat's Eye Dome Ring",
+    "price": "£19.90",
+    "image": "assets/products/C025_01.webp"
+  },
+  {
+    "code": "C026",
+    "name": "Green Cat's Eye Dome Ring",
+    "price": "£19.90",
+    "image": "assets/products/C026_01.webp"
+  },
+  {
+    "code": "C027",
+    "name": "Daisy Zircon Adjustable Ring",
+    "price": "£15.90",
+    "image": "assets/products/C027_01.webp"
+  },
+  {
+    "code": "C028",
+    "name": "Square Enamel Stud Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C028_01.webp"
+  },
+  {
+    "code": "C029",
+    "name": "Lemon Resin Necklace",
+    "price": "£12.90",
+    "image": "assets/products/C029_01.webp"
+  },
+  {
+    "code": "C030",
+    "name": "Daisy Lemon Stud Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C030_01.webp"
+  },
+  {
+    "code": "C031",
+    "name": "Cherry Open Ring",
+    "price": "£12.90",
+    "image": "assets/products/C031_01.webp"
+  },
+  {
+    "code": "C032",
+    "name": "Cherry Pendant Necklace",
+    "price": "£19.90",
+    "image": "assets/products/C032_01.webp"
+  },
+  {
+    "code": "C033",
+    "name": "Cherry Charm Bracelet",
+    "price": "£17.90",
+    "image": "assets/products/C033_01.webp"
+  },
+  {
+    "code": "C034",
+    "name": "Spinning Blessing Compass Necklace",
+    "price": "£19.90",
+    "image": "assets/products/C034_01.webp"
+  },
+  {
+    "code": "C035",
+    "name": "Fortune Pouch Necklace",
+    "price": "£19.90",
+    "image": "assets/products/C035_01.webp"
+  },
+  {
+    "code": "C036",
+    "name": "Cream Pearl Flower Studs",
+    "price": "£24.90",
+    "image": "assets/products/C036_01.webp"
+  },
+  {
+    "code": "C037",
+    "name": "Vintage Silver Petal Studs",
+    "price": "£24.90",
+    "image": "assets/products/C037_01.webp"
+  },
+  {
+    "code": "C038",
+    "name": "Turquoise & Mother-of-Pearl Earrings",
+    "price": "£24.90",
+    "image": "assets/products/C038_01.webp"
+  },
+  {
+    "code": "C039",
+    "name": "Openwork Rose Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C039_01.webp"
+  },
+  {
+    "code": "C040",
+    "name": "Festival Zongzi Necklace",
+    "price": "£24.90",
+    "image": "assets/products/C040_01.webp"
+  },
+  {
+    "code": "C041",
+    "name": "Festival Zongzi Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C041_01.webp"
+  },
+  {
+    "code": "C042",
+    "name": "Five-Colour Festival Cord Bracelet",
+    "price": "",
+    "image": "assets/products/C042_01.webp"
+  },
+  {
+    "code": "C043",
+    "name": "Colour Clash Beaded Earrings",
+    "price": "£24.90",
+    "image": "assets/products/C043_01.webp"
+  },
+  {
+    "code": "C044",
+    "name": "Amethyst Chinese-Style Earrings",
+    "price": "£24.90",
+    "image": "assets/products/C044_01.webp"
+  },
+  {
+    "code": "C045",
+    "name": "Abalone Sunrise Earrings",
+    "price": "£24.90",
+    "image": "assets/products/C045_01.webp"
+  },
+  {
+    "code": "C046",
+    "name": "Shell Slice Tassel Studs",
+    "price": "£12.90",
+    "image": "assets/products/C046_01.webp"
+  },
+  {
+    "code": "C047",
+    "name": "Handmade Fabric Flower Earrings",
+    "price": "£25",
+    "image": "assets/products/C047_01.webp"
+  },
+  {
+    "code": "C048",
+    "name": "Purple Fabric Flower Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C048_01.webp"
+  },
+  {
+    "code": "C049",
+    "name": "Pink Fabric Camellia Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C049_01.webp"
+  },
+  {
+    "code": "C050",
+    "name": "Green Shell Bead Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C050_01.webp"
+  },
+  {
+    "code": "C051",
+    "name": "New Chinese Porcelain Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C051_01.webp"
+  },
+  {
+    "code": "C052",
+    "name": "New Chinese Teacup Earrings",
+    "price": "£12.90",
+    "image": "assets/products/C052_01.webp"
+  },
+  {
+    "code": "C053",
+    "name": "Strawberry & Rose Quartz Bracelet",
+    "price": "£29.90",
+    "image": "assets/products/C053_01.webp"
+  },
+  {
+    "code": "C054",
+    "name": "Pink Leopard Cellulose Acetate Claw Clip",
+    "price": "£9.90",
+    "image": "assets/products/C054_01.webp"
+  },
+  {
+    "code": "C055",
+    "name": "Handmade Crochet Flower Claw Clip",
+    "price": "£15",
+    "image": "assets/products/C055_01.webp"
+  },
+  {
+    "code": "C056",
+    "name": "Handmade Crochet Flower Claw Clip",
+    "price": "£15",
+    "image": "assets/products/C056_01.webp"
+  },
+  {
+    "code": "C057",
+    "name": "Handmade Crochet Flower Claw Clip",
+    "price": "£15",
+    "image": "assets/products/C057_01.webp"
+  },
+  {
+    "code": "C058",
+    "name": "Purple Flower Cellulose Acetate Claw Clip",
+    "price": "£19.90",
+    "image": "assets/products/C058_01.webp"
+  },
+  {
+    "code": "C059",
+    "name": "Lucky Compass 925 Silver Necklace",
+    "price": "£29.90",
+    "image": "assets/products/C059_01.webp"
+  },
+  {
+    "code": "C060",
+    "name": "Endless Summer Butterfly Bracelet",
+    "price": "£29.90",
+    "image": "assets/products/C060_01.webp"
+  },
+  {
+    "code": "C061",
+    "name": "Little Universe Pearl Planet Necklace",
+    "price": "£29.90",
+    "image": "assets/products/C061_01.webp"
+  },
+  {
+    "code": "C062",
+    "name": "Four-Leaf Clover 925 Silver Bracelet",
+    "price": "£29.90",
+    "image": "assets/products/C062_01.webp"
+  },
+  {
+    "code": "C063",
+    "name": "Hepburn Pearl Sparkle Earrings",
+    "price": "£19.90",
+    "image": "assets/products/C063_01.webp"
+  },
+  {
+    "code": "C064",
+    "name": "Clear Crystal-Effect Drop Earrings",
+    "price": "£15.90",
+    "image": "assets/products/C064_01.webp"
+  },
+  {
+    "code": "C065",
+    "name": "Hand-Painted Pearl Earrings",
+    "price": "£9.90",
+    "image": "assets/products/C065_01.webp"
+  },
+  {
+    "code": "C066",
+    "name": "Moonstone & Clear Quartz Bracelet",
+    "price": "£19.90",
+    "image": "assets/products/C066_01.webp"
+  },
+  {
+    "code": "C067",
+    "name": "Blue Porcelain Heart Necklace",
+    "price": "£12.90",
+    "image": "assets/products/C067_01.webp"
+  },
+  {
+    "code": "C068",
+    "name": "Rose Quartz Star Necklace",
+    "price": "£19.90",
+    "image": "assets/products/C068_01.webp"
+  },
+  {
+    "code": "C069",
+    "name": "Green Crystal Raw Stone Necklace",
+    "price": "£19.90",
+    "image": "assets/products/C069_01.webp"
+  },
+  {
+    "code": "C070",
+    "name": "Colour Zircon Necklace",
+    "price": "",
+    "image": "assets/mucha-logo.png"
+  },
+  {
+    "code": "C071",
+    "name": "Lantern Tassel Drop Earrings",
+    "price": "£9.90",
+    "image": "assets/products/C071_01.webp"
+  },
+  {
+    "code": "C072",
+    "name": "Brushed Three-Petal Flower Studs",
+    "price": "£9.90",
+    "image": "assets/products/C072_01.webp"
+  },
+  {
+    "code": "C073",
+    "name": "Slim Spring Open Ring",
+    "price": "£9.90",
+    "image": "assets/products/C073_01.webp"
+  },
+  {
+    "code": "C074",
+    "name": "Emerald Zircon Open Ring",
+    "price": "£12.90",
+    "image": "assets/products/C074_01.webp"
+  },
+  {
+    "code": "C075",
+    "name": "Baroque Pearl Gold Foil Ring",
+    "price": "£15",
+    "image": "assets/products/C075_01.webp"
+  },
+  {
+    "code": "C076",
+    "name": "Pink Leopard Cellulose Acetate Clip",
+    "price": "£9.90",
+    "image": "assets/products/C076_01.webp"
+  },
+  {
+    "code": "C077",
+    "name": "Treasure Compass Brooch Pendant",
+    "price": "£19.90",
+    "image": "assets/products/C077_01.webp"
+  },
+  {
+    "code": "C078",
+    "name": "Bamboo & Gourd Good Fortune Brooch",
+    "price": "£15",
+    "image": "assets/products/C078_01.webp"
+  }
+]
