@@ -2,7 +2,7 @@ const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 const products = require("../products.json");
 
 const UK_SHIPPING_PENCE = 299;
-const FREE_SHIPPING_AT_PENCE = 4000;
+const FREE_SHIPPING_AT_PENCE = 3500;
 const DUANWU_CODES = new Set(["C040", "C041", "C042"]);
 
 function priceToPence(price) {

@@ -21,7 +21,7 @@ Redeploy after adding the variables.
 
 - UK delivery only.
 - Delivery is `£2.99`.
-- Free delivery over `£40` after discounts.
+- Free delivery over `£35` after discounts.
 - Sitewide discount: 10% off.
 - Dragon Boat / zongzi products `C040`, `C041`, `C042`: 20% off.
 - Unpriced products cannot be checked out.
